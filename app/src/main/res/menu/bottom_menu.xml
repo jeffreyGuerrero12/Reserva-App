@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/reservaFragment"
+        android:title="@string/reserva"
+        android:icon="@drawable/ic_reserva"/>
+
+    <item
+        android:id="@+id/detalleFragment"
+        android:title="@string/detalle"
+        android:icon="@drawable/ic_detalle"/>
+</menu>
